@@ -1,4 +1,4 @@
-.linea{
+#fondo{
     background-color: aliceblue;
 }
 
@@ -6,17 +6,17 @@
     font-family: Calibri, sans-serif;
 }
 
-.presentacion {
-    background-color: rgba(144, 242, 152, 0.457); 
+.verde{
+    background-color: rgba(147, 236, 147, 0.548);
 }
 
-#datos { 
-    background-color: rgba(184, 212, 237, 0.594);
+.azul{
+    background-color: rgba(146, 209, 234, 0.256);
 }
 
 #titulo {
     color: rgb(7, 99, 41); 
-    background-color: rgba(231, 248, 83, 0.361);
+    background-color: rgba(248, 248, 138, 0.361);
     font-size: 1.5em;
     font-weight: bold;
     text-align: center;
@@ -30,7 +30,6 @@ img{
 }
 
 .parrafo {
-    background-color: rgba(231, 248, 83, 0.361);
     font-style: italic;
     text-align: center;
 }
@@ -44,21 +43,10 @@ img{
 
 
 #est {
-    border: 1.5px dotted rgb(17, 122, 43);
+    border: 1.5px dotted rgb(70, 85, 244);
     border-radius: 20px;
 }
 
-
-
-#exp {
-    border: 1.5px solid rgb(15, 79, 217);
-    border-radius: 20px;
-}
-
-#exp ul {
-    list-style-type: circle;
-    padding-left: 30px;
-}
 
 h3{
     color: rgb(45, 93, 95);
