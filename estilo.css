@@ -1,0 +1,68 @@
+#fondo{
+    background-image: url("https://img.freepik.com/vector-gratis/acuarela-pintada-mano-fondo-acuarela-abstracto_361591-2658.jpg?semt=ais_hybrid&w=740");
+}
+
+*{
+    font-family: Calibri, sans-serif;
+}
+
+
+#titulo {
+    color: rgb(7, 99, 41); 
+    background-color: rgba(237, 142, 46, 0.361);
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 10px;  
+}
+
+img{
+    display:block;
+    margin:auto;
+    border-radius: 10px;
+}
+
+.parrafo {
+    background-color: rgba(70, 244, 204, 0.518);
+    font-style: italic;
+    text-align: center;
+}
+
+
+#intro{
+    background-color: rgba(70, 192, 244, 0.518);
+    font-style: italic;
+    text-align: center;
+}
+
+
+#est {
+    border: 1.5px dotted rgb(17, 122, 43);
+    border-radius: 20px;
+}
+
+
+
+#exp {
+    border: 1.5px solid rgb(15, 79, 217);
+    border-radius: 20px;
+}
+
+#exp ul {
+    list-style-type: circle;
+    padding-left: 30px;
+}
+
+h3{
+    color: rgb(45, 93, 95);
+    background-color: rgba(135, 207, 235, 0.397);
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    width: 50%;
+}
+
+.cent {
+    text-align: center;
+    margin: 0 auto;
+}
