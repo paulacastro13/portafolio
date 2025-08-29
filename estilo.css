@@ -1,15 +1,22 @@
-#fondo{
-    background-image: url("https://img.freepik.com/vector-gratis/acuarela-pintada-mano-fondo-acuarela-abstracto_361591-2658.jpg?semt=ais_hybrid&w=740");
+.linea{
+    background-color: aliceblue;
 }
 
 *{
     font-family: Calibri, sans-serif;
 }
 
+.presentacion {
+    background-color: rgba(144, 242, 152, 0.457); 
+}
+
+#datos { 
+    background-color: rgba(184, 212, 237, 0.594);
+}
 
 #titulo {
     color: rgb(7, 99, 41); 
-    background-color: rgba(237, 142, 46, 0.361);
+    background-color: rgba(231, 248, 83, 0.361);
     font-size: 1.5em;
     font-weight: bold;
     text-align: center;
@@ -23,7 +30,7 @@ img{
 }
 
 .parrafo {
-    background-color: rgba(70, 244, 204, 0.518);
+    background-color: rgba(231, 248, 83, 0.361);
     font-style: italic;
     text-align: center;
 }
